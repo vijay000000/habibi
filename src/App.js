@@ -4,9 +4,9 @@ import LogoutButton from "./components/logout";
 import { gapi } from 'gapi-script';
 import './App.css';
 
-const CLIENT_ID = "97033125508-87sv8reknnosjpih7b8o7ttm21l2se40.apps.googleusercontent.com";
-const API_KEY = "AIzaSyBUTFIgyLQ9CdsY71bno9MaFTgZcD_2GsI";
-const SCOPES = "https://www.googleapis.com/auth/drive";
+const CLIENT_ID = "client_id";//replace your client id 
+const API_KEY = "api_key";//replace your api key
+const SCOPES = "scopes";//replace your scopes
 
 function App() {
 
